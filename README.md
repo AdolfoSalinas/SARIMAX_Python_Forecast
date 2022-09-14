@@ -5,9 +5,8 @@ A demand forecast created with Python taking into account seasonality and exogen
 # Step 1
 Initial setup of data. Pull in truck demand data over 1.5 years
  
- ![image](https://user-images.githubusercontent.com/44706605/153674953-2bcfa6f0-38aa-4797-9c0e-3420091c8dc6.png)
+![image](https://user-images.githubusercontent.com/44706605/190204026-48d579d3-e08e-4fbd-b447-0242f650e239.png)
 
- 
 # Step 2
 Take first initial look at data
  
